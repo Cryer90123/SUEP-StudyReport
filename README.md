@@ -1,2 +1,2 @@
-# SHIEP-StudyReport
+# SUEP-StudyReport
 机器学习学习报告
